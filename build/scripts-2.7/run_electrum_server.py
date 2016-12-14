@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 # Copyright(C) 2011-2016 Thomas Voegtlin
 #
 # Permission is hereby granted, free of charge, to any person
